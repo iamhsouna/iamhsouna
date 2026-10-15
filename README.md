@@ -23,6 +23,8 @@
 Based in Tunisia. Open to roles in EU, UK, Canada, Australia and Gulf.
 Visa sponsorship needed.
 
+**[Online CV](https://iamhsouna.github.io/)**
+
 ## What I build
 
 | Project | Stack | What it does |
@@ -46,6 +48,7 @@ Currently on hold.
 
 ## Connect
 
+- CV: iamhsouna.github.io
 - LinkedIn: linkedin.com/in/hsouna-zinoubi
 - Hugging Face: huggingface.co/iamhsouna
 
