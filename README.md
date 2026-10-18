@@ -1,55 +1,35 @@
-# HSOUNA ZINOUBI
+# Hi, I'm Hsouna 👋
 
-```
-+==================================================================+
-|                                                                  |
-|   H S O U N A   Z I N O U B I                                    |
-|   Freelance IT Developer                                         |
-|   Linux Systems  -  AI Infrastructure  -  Open Source            |
-|                                                                  |
-|        o         o         o                                      |
-|         \       / \       /                                       |
-|          \     /   \     /                                        |
-|           o---o-----o---o         neural nets,                   |
-|           |   |     |   |         running locally                 |
-|           o---o-----o---o                                        |
-|          /     \   /     \                                       |
-|         /       \ /       \                                      |
-|        o         o         o                                     |
-|                                                                  |
-+==================================================================+
-```
+**Freelance IT developer — Linux systems · CLI tooling · local LLM / AI inference infrastructure.**
+Self-taught, open-source first. I build small, fast, reliable tools and run real inference infrastructure on real hardware.
 
-Based in Tunisia. Open to roles in EU, UK, Canada, Australia and Gulf.
-Visa sponsorship needed.
+📍 Sidi Bouzid, Tunisia · 🌍 **Open to relocation (EU / Germany / Canada) and remote roles**
+🛂 Non-EU — eligible for Germany's **IT-specialist route (§19c AufenthG / EU Blue Card experience pathway)**: 3+ years' experience, **no degree required**.
+✉️ iamhsouna@gmail.com · 🤗 [huggingface.co/iamhsouna](https://huggingface.co/iamhsouna) · 💼 [linkedin.com/in/hsouna-zinoubi](https://linkedin.com/in/hsouna-zinoubi)
 
-**[Online CV](https://iamhsouna.github.io/)**
+---
 
-## What I build
+### What I work on
 
-| Project | Stack | What it does |
+- **Local LLM inference** — llama.cpp, vLLM, GGUF model conversion (published on Hugging Face), GPU memory & model-compatibility troubleshooting.
+- **Linux & systems** — multi-machine infrastructure, Docker, Proxmox, server administration, observability.
+- **Developer tooling** — fast, focused CLIs in **Go, Rust and Python**.
+
+### Selected projects
+
+| Project | What it is | Stack |
 |---|---|---|
-| lintop | Go | Real-time Linux terminal system monitor with NVIDIA, AMD and Intel GPU support |
-| hfd | Rust | Fast Hugging Face model and dataset downloader: parallel, resumable, SHA-256 verified, TUI |
-| Bouzid FM | Python | Self-hosted Tunisian AI radio: Gemini content and TTS, AzuraCast broadcast, terminal panel |
-| lyra | Rust | Local song generation studio: terminal UI plus web UI, one shared core |
-| agentclick | Python | Wraps any command and plays typing clicks as output streams, macOS and Ubuntu |
-| AppGrab | Python | CLI search and download for Android APKs and iOS IPAs |
-| GGUF conversions | Hugging Face | Credited converter of two published GGUF model variants |
+| **lintop** | Real-time Linux system monitor with NVIDIA/AMD/Intel GPU support (an htop + nvtop in one) | Go |
+| **hfd** | Fast, resumable Hugging Face downloader — multi-connection, SHA-256 verified, TUI | Rust |
+| **llamacpp-manager** | Swiss-army CLI for llama.cpp: builds, presets, and the running server | Rust |
+| **lyra** | Local song generation studio (TUI + web UI) over a GPU-backed runner | Rust |
+| **bouzid-fm** | Self-hosted AI radio station: generation, TTS, AzuraCast broadcast, terminal control panel | Python |
+| **GGUF conversions** | Published, documented GGUF model variants with quantization notes | Hugging Face |
 
-## Toolbox
+### Languages
 
-PHP - Python - Bash - Go - Rust - Linux - Docker - Proxmox - llama.cpp - vLLM - Hugging Face - Git
+Arabic (native) · French (professional) · English (fluent) · Italian (basic) · German (learning now)
 
-## Founder experience
+---
 
-Founded TANIT TRAVEL in Dubai in 2021: online UAE and GCC tourist visas, flights, hotels.
-Currently on hold.
-
-## Connect
-
-- CV: iamhsouna.github.io
-- LinkedIn: linkedin.com/in/hsouna-zinoubi
-- Hugging Face: huggingface.co/iamhsouna
-
-Some projects were built with AI-assisted coding workflows. All repos are real, public and runnable.
+*Everything above is public and runnable — that's the point. If you're hiring for inference infra, platform/SRE, or developer tooling and can support relocation or hire remote, let's talk.*
