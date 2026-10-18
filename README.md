@@ -1,10 +1,10 @@
 # Hi, I'm Hsouna 👋
 
-**Freelance IT developer — Linux systems · CLI tooling · local LLM / AI inference infrastructure.**
-Self-taught, open-source first. I build small, fast, reliable tools and run real inference infrastructure on real hardware.
+**Freelance IT developer — 18 years in IT (since 2008) · Linux systems · CLI tooling · local LLM / AI inference infrastructure.**
+Self-taught, open-source first: from PC repair, networks and PHP websites (2008) to Linux servers and GPU inference today. I build small, fast, reliable tools and run real inference infrastructure on real hardware.
 
 📍 Sidi Bouzid, Tunisia · 🌍 **Open to relocation (EU / Germany / Canada) and remote roles**
-🛂 Non-EU — eligible for Germany's **IT-specialist route (§19c AufenthG / EU Blue Card experience pathway)**: 3+ years' experience, **no degree required**.
+🛂 Non-EU — eligible for Germany's **IT-specialist route (§19c AufenthG / EU Blue Card experience pathway)**: 18 years' IT experience, **no degree required**.
 ✉️ iamhsouna@gmail.com · 🤗 [huggingface.co/iamhsouna](https://huggingface.co/iamhsouna) · 💼 [linkedin.com/in/hsouna-zinoubi](https://linkedin.com/in/hsouna-zinoubi)
 
 ---
